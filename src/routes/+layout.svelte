@@ -34,7 +34,8 @@
 
 <style>
 	main {
-		text-align: center;
 		padding-block: 1rem 2rem;
+
+		place-items: center;
 	}
 </style>

@@ -25,8 +25,6 @@
 		required
 		pattern={passwordPAttern.source}
 		autocomplete="off"
-		autocorrect="off"
-		spellcheck="false"
 	/>
 
 	<input type="submit" value="Login" />
